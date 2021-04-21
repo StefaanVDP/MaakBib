@@ -86,6 +86,14 @@ authors:
     web: https://www.mathemagic.be/
     twitter: 
     description: "Productontwikkelaar, STEAM-edutrainer, jeugdbeweging-leider."
+  stefaan:
+    name: Stefaan
+    display_name: Stefaan
+    avatar: 'assets/images/avatars/avatar17.png'
+    email: stefaan_vandeputten@hotmail.com
+    web: http://decreatievestem.be
+    twitter: 
+    description: "arduino, blokkencode, houtbewerking, fotografie"
 
 # Collections on MaakBib site
 collections:
